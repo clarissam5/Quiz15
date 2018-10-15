@@ -1,3 +1,6 @@
+//Author: Clarissa Mercado
+//Quiz 15 Calculator Program
+
 $(document).ready(function () {
     $(".inputElements").on("click", function () {
         $("#calculatorInput").append($(this).text());
